@@ -5,6 +5,8 @@ div{
     border-radius: 100%;
     box-shadow: 0 0 10px black;
     overflow: hidden;
+    margin: 50%;
+    transition: 0.5;
 }
 image{
     width: 100%;
