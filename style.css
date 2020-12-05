@@ -4,6 +4,7 @@ div{
     width: 50px;
     border-radius: 100%;
     box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+    overflow: hidden;
 }
 image{
     width: 100%;
